@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "build",
+    "declaration": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "target": "es2017",
+    "module": "es6",
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true
+  },
+  "exclude": ["**/*.test.ts"]
+}
