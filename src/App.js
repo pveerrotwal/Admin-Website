@@ -6,7 +6,7 @@ import jsonServerProvider from "ra-data-json-server";
 
 const dataProvider =
   // jsonServerProvider("https://jsonplaceholder.typicode.com");
-  jsonServerProvider("http://localhost:3001");
+  jsonServerProvider("https://my-json-server.typicode.com/pramit-marattha/Admin-dashboard-json-server");
 
 class App extends Component {
   render() {
